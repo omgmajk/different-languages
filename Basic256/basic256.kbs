@@ -1,0 +1,7 @@
+# Should work with Basic-256 and QBasic
+CLS
+print "Enter some text:"
+input a$
+print "Here is your text:"
+print a$
+END
