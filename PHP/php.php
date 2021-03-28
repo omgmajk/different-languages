@@ -1,5 +1,6 @@
 <?php
-// use php php.php
+// Use php php.php to execute on command line
+// Takes string input from user and writes to console.
 
 echo "Enter some text:\n";
 $text = readline();
