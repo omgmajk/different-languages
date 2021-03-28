@@ -1,4 +1,5 @@
 /* Compile using g++ cpp.cpp */
+// Takes string input from user and writes to console.
 
 #include <iostream>
 #include <string>
