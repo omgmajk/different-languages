@@ -8,6 +8,6 @@ void main(int argc, char *argv[]){
     char *myText = malloc(sizeof(char) + 256 + 1);
 
     printf("Enter some text:\n");
-    scanf("%200[^\n]s", myText);
+    scanf("%256[^\n]s", myText);
     printf("Here is your text back:\n%s\n", myText);
 }
