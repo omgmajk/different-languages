@@ -1,5 +1,6 @@
 // compile using javac java.java
 // execute with java java (omit the .class or it won't execute, I hate java)
+// Takes string input from user and writes to console.
 
 import java.io.BufferedReader;
 import java.io.IOException;
