@@ -1,4 +1,5 @@
-// use js js.js
+// use js js.js to run
+// Takes string input from user and writes to console.
 const readline = require("readline");
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 
