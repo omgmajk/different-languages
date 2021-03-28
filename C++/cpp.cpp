@@ -2,7 +2,6 @@
 // Takes string input from user and writes to console.
 
 #include <iostream>
-#include <string>
 
 using namespace std;
 
