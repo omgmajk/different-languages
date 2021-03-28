@@ -1,4 +1,5 @@
 /* Compile using gcc c.c */
+// Takes string input from user and writes to console.
 
 #include <stdio.h>
 #include <stdlib.h>
