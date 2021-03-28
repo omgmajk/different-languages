@@ -1,4 +1,5 @@
 /* Use with go run go.go OR go build go.go for compiling */
+// Takes string input from user and writes to console.
 
 package main
 
