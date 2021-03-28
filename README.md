@@ -20,6 +20,7 @@ Featured language examples:
 14. Python 3
 15. Ruby
 16. Rust
+17. Scala
 
 I have seen a lot of questions on Stack Overflow about taking user input in programs, so this might serve as a quick tutorial on how to do so.
 Feel free to comment or add suggestions for more languages.
