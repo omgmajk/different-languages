@@ -1,4 +1,5 @@
 /* Compile using rustc rust.rs */
+// Takes string input from user and writes to console.
 
 use std::*;
 
