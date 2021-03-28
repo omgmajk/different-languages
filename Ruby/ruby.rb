@@ -1,5 +1,6 @@
 #!/usr/bin/ruby
-# use with ruby ruby.rb or chmod +x and ./ruby.rb 
+# Use with ruby ruby.rb or chmod +x and ./ruby.rb
+# Takes string input from user and writes to console.
 
 puts "Enter some text:"
 text = gets
