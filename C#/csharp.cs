@@ -1,4 +1,5 @@
 /* compile using msc csharp.cs and execute .exe-file */
+// Takes string input from user and writes to console.
 
 using System;
 
