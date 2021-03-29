@@ -1,7 +1,7 @@
-# inputoutput-different-languages
+# different-languages
 ## Tutorial/Examples
 
-Code examples for taking user input from console and displaying it back. This is just a learning project but someone might find it interesting.
+### Code examples for taking user input from console and displaying it back
 
 **Featured language examples:**
 ```
@@ -18,6 +18,13 @@ Code examples for taking user input from console and displaying it back. This is
   Lua               Ada
   Common lisp       
 
+```
+
+### Code examples for random number generation
+
+**Featured language examples:**
+```
+  C#
 ```
 I have seen a lot of questions on Stack Overflow about taking user input in console programs, so this might serve as a quick tutorial on how to do so.
 
