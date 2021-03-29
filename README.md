@@ -24,6 +24,8 @@ Code examples for taking user input from console and displaying it back. This is
   Scala
   VB.NET
   R
+  SmallTalk
+  Lua
 ```
 I have seen a lot of questions on Stack Overflow about taking user input in console programs, so this might serve as a quick tutorial on how to do so.
 
