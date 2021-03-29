@@ -27,5 +27,6 @@ This is just a project for learning various languages and their syntax and tools
 **Featured language examples:**
 ```
   C#                Python 3
+  C
 ```
 Feel free to comment or add suggestions for more languages.
