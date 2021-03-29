@@ -11,7 +11,7 @@ namespace RandomNumber{
 
         var rnd = new Random();
         int rndNr = rnd.Next(0,1001); // The higher value is exclusive, putting 1000 will result in 999
-        Console.WriteLine("Your number is: " + rndNr);
+        Console.WriteLine("Your random number is: " + rndNr);
 
         }
     }
