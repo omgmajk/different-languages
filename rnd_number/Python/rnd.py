@@ -3,5 +3,9 @@
 
 import random
 
-rndNr = random.randint(0, 1000)
-print(rndNr)
+def main():
+    rndNr = random.randint(0, 1000)
+    print(rndNr)
+
+if __name__ == "__main__":
+    main()
