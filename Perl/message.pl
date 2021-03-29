@@ -1,5 +1,5 @@
-# Execute with perl perl.pl
 #!/usr/bin/perl
+# Execute with perl message.pl
 # Takes string input from user and writes to console.
 
 print "Enter some text:\n";

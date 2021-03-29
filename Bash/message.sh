@@ -1,6 +1,6 @@
 #!/bin/bash
 # use chmod +x message.sh and ./message.sh
-# Takes user input in string and echoes to console.
+# Takes string input from user and writes to console
 
 printf "Enter some text: \n"
 

@@ -1,4 +1,4 @@
-/* Compile using g++ cpp.cpp */
+/* Compile using g++ message.cpp */
 // Takes string input from user and writes to console.
 
 #include <iostream>

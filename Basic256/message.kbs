@@ -1,4 +1,6 @@
 # Should work with Basic-256 and QBasic
+# > basic256 message.kbs
+# Takes string input from user and writes to console
 CLS
 print "Enter some text:"
 input a$

@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Use with either python3 python.py or chmod +x and ./python.py (python will refer to python 2)
+# Use with either python3 message.py or chmod +x and ./message.py (python will refer to python 2)
 # Takes string input from user and writes to console.
 
 def main():

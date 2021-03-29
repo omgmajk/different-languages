@@ -1,4 +1,6 @@
 -- Compile with gnat make message.adb
+-- Takes string input from user and writes to console
+
 with Ada.Text_IO;
 
 procedure Message is

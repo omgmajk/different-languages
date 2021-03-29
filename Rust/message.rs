@@ -1,4 +1,4 @@
-/* Compile using rustc rust.rs */
+/* Compile using rustc message.rs */
 // Takes string input from user and writes to console.
 
 use std::*;

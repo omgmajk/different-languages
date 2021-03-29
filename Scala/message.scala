@@ -1,7 +1,8 @@
-// Compile with scalac scala.scala and run with scala ReadText (omit .class)
+// Compile with scalac message.scala and run with scala message (omit .class)
+
 import scala.io.StdIn.readLine
 
-object ReadText extends App {
+object message extends App {
   println("Enter some text: ")
   val myText = readLine()
 
