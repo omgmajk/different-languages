@@ -1,4 +1,4 @@
-/* Compile using gcc c.c */
+/* Compile using gcc message.c */
 // Takes string input from user and writes to console.
 
 #include <stdio.h>
