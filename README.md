@@ -5,7 +5,7 @@
 
 **Featured language examples:**
 ```
-  ASM 64            Java
+  Assembler x64     Java
   Bash              JavaScript
   Basic-256         Perl
   C                 PHP
@@ -24,7 +24,7 @@
 
 **Featured language examples:**
 ```
-  C#
+  C#                Python 3
 ```
 I have seen a lot of questions on Stack Overflow about taking user input in console programs, so this might serve as a quick tutorial on how to do so.
 

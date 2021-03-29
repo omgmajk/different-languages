@@ -1,5 +1,5 @@
 // Compile in Visual Studio or using mcs rnd.cs and then running the exe file
-// Prints a random number from 0 to 1000
+// Generates and prints a random number from 0 to 1000
 
 using System;
 
