@@ -29,5 +29,6 @@ This is just a project for learning various languages and their syntax and tools
   C#                Python 3
   C                 C++
   Perl              GoLang
+  Elixir
 ```
 Feel free to comment or add suggestions for more languages.
