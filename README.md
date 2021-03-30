@@ -18,7 +18,7 @@ This is just a project for learning various languages and their syntax and tools
   Haskell           VB.NET
   R                 SmallTalk
   Lua               Ada
-  Common lisp       
+  Common lisp       PowerShell
 
 ```
 
