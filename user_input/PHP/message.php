@@ -1,5 +1,5 @@
 <?php
-// Use php message.php to execute on command line
+// Use php message.php to execute on command line or in website with php module
 // Takes string input from user and writes to console.
 
 echo "Enter some text:\n";
