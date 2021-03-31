@@ -32,6 +32,6 @@ This is just a project for learning various languages and their syntax and tools
   Elixir            Lua
   VB.NET            Ruby
   Rust              PHP
-  Ada
+  Ada               Scala
 ```
 Feel free to comment or add suggestions for more languages.
