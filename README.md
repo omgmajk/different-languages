@@ -33,5 +33,6 @@ This is just a project for learning various languages and their syntax and tools
   VB.NET            Ruby
   Rust              PHP
   Ada               Scala
+  Haskell
 ```
 Feel free to comment or add suggestions for more languages.
