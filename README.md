@@ -31,6 +31,6 @@ This is just a project for learning various languages and their syntax and tools
   Perl              GoLang
   Elixir            Lua
   VB.NET            Ruby
-  Rust
+  Rust              PHP
 ```
 Feel free to comment or add suggestions for more languages.
