@@ -1,18 +1,18 @@
 -- Compile with gnat make rand.adb
--- Generates and prints a random number between 1 to 1000
+-- Generates and prints a random number between 0 to 1000
 
 with ada.Text_IO; use Ada.Text_IO;
 with ada.numerics.discrete_random;
 
 procedure rand is
-   type randRange is new Integer range 1..1000;
+   type randRange is new Integer range 0..1000;
    package Rand_Int is new ada.numerics.discrete_random(randRange);
    use Rand_Int;
-   gen : Generator;
-   num : randRange;
+   genRnd : Generator;
+   rndNr : randRange;
 begin
-   reset(gen);
-   num := random(gen);
+   reset(genRnd);
+   rndNr := random(genRnd);
    put("Your random number is: ");
-   put_line(randRange'Image(num));
+   put_line(randRange'Image(rndNr));
 end rand;
