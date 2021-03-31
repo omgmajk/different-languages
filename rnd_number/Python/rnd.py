@@ -5,7 +5,7 @@ import random
 
 def main():
     rndNr = random.randint(0, 1000)
-    print("Here is your random number:", rndNr)
+    print("Your random number is:", rndNr)
 
 if __name__ == "__main__":
     main()

@@ -3,6 +3,4 @@
 
 math.randomseed(os.time()) -- Seeds the random function
 rndNr = math.random(0, 1000)
-print("Here is your random number: ", rndNr)
-
-
+print("Your random number is: ", rndNr)
