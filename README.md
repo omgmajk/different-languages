@@ -30,5 +30,6 @@ This is just a project for learning various languages and their syntax and tools
   C                 C++
   Perl              GoLang
   Elixir            Lua
+  VB.NET
 ```
 Feel free to comment or add suggestions for more languages.
