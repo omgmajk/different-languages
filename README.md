@@ -35,4 +35,24 @@ This is just a project for learning various languages and their syntax and tools
   Ada               Scala
   Haskell
 ```
+
+### Install guide kali/ubuntu/debian
+```
+If you use Kali full install:
+nasm, gcc, js, java, python3, perl and ruby might be pre-installed. Otherwise find these packages.
+
+These might need to be installed:
+Install Ada: sudo apt install gnat-10
+Install Haskell: sudo apt install ghc
+Install Common Lisp: sudo apt install clisp
+Install Lua: sudo apt install lua5.4
+Install Scala: sudo apt install scala
+Install Smalltalk: sudo apt install gnu-smalltalk
+Install Rust: sudo apt install rustc
+Install Basic256: sudo apt install basic256
+
+
+```
+
+
 Feel free to comment or add suggestions for more languages.
