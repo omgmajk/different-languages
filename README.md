@@ -36,21 +36,34 @@ This is just a project for learning various languages and their syntax and tools
   Haskell
 ```
 
-### Install guide kali/ubuntu/debian
+### Install guide Kali Linux
 ```
+Note: these installation packages will most likely work in Debian and Ubuntu aswell.
+
 If you use Kali full install:
-nasm, gcc, js, java, python3, perl and ruby might be pre-installed. Otherwise find these packages.
+$ sudo apt install kali-linux-large
+
+In that case: nasm, gcc, js, java, python3, perl and ruby might be pre-installed. Otherwise find these packages.
 
 These might need to be installed:
-Install Ada: sudo apt install gnat-10
-Install Haskell: sudo apt install ghc
-Install Common Lisp: sudo apt install clisp
-Install Lua: sudo apt install lua5.4
-Install Scala: sudo apt install scala
-Install Smalltalk: sudo apt install gnu-smalltalk
-Install Rust: sudo apt install rustc
-Install Basic256: sudo apt install basic256
+Install Ada: $ sudo apt install gnat-10
+Install Haskell: $ sudo apt install ghc
+Install Common Lisp: $ sudo apt install clisp
+Install Lua: $ sudo apt install lua5.4
+Install Scala: $ sudo apt install scala
+Install Smalltalk: $ sudo apt install gnu-smalltalk
+Install Rust: $ sudo apt install rustc
+Install Basic256: $ sudo apt install basic256
 
+For the rust rand program to compile/work you might need:
+$ sudo apt install librust-rand-dev libssl-dev
+$ cargo install cargo-edit
+
+Add /home/<youruser>/.cargo.bin to path:
+$ nano /home/<youruser>/.bashrc
+
+ADD this line to the end of the file:
+export PATH="/home/<youruser>/.cargo/bin:$PATH"
 
 ```
 
