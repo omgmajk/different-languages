@@ -43,7 +43,8 @@ Note: these installation packages will most likely work in Debian and Ubuntu asw
 If you use Kali full install:
 $ sudo apt install kali-linux-large
 
-In that case: nasm, gcc, js, java, python3, perl and ruby might be pre-installed. Otherwise find these packages.
+In that case: nasm, gcc, js, java, python3, perl and ruby might be pre-installed.
+Otherwise find these packages.
 
 These might need to be installed:
 Install Ada: $ sudo apt install gnat-10
@@ -65,7 +66,10 @@ $ nano /home/<youruser>/.bashrc
 ADD this line to the end of the file:
 export PATH="/home/<youruser>/.cargo/bin:$PATH"
 
-```
+Start PowerShell by typing: $ pwsh
 
+```
+### Interactive shells
+C#, like Python offers an interactive shell. You start it by typing `csharp` in your console, just like `idle` or `python3`
 
 Feel free to comment or add suggestions for more languages.
