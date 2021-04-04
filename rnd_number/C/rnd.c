@@ -1,5 +1,5 @@
 // Compile with gcc rnd.c and run with ./a.out
-// Generates and prints a random number from 0 to 1000.
+// Generates and prints a random number from 0 to 1000
 
 #include <stdlib.h>
 #include <stdio.h>
