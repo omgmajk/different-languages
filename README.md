@@ -33,7 +33,7 @@ This is just a project for learning various languages and their syntax and tools
   VB.NET            Ruby
   Rust              PHP
   Ada               Scala
-  Haskell
+  Haskell           Bash
 ```
 
 ### Install guide Kali Linux
