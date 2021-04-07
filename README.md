@@ -34,6 +34,7 @@ This is just a project for learning various languages and their syntax and tools
   Rust              PHP
   Ada               Scala
   Haskell           Bash
+  JavaScript
 ```
 
 ### Install guide Kali Linux
