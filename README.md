@@ -18,7 +18,7 @@ This is just a project for learning various languages and their syntax and tools
   PowerShell        Python 3
   R                 Ruby
   Rust              Scala
-  SmallTalk         VB.NET    
+  GNU SmallTalk     VB.NET    
 
 ```
 
@@ -35,7 +35,7 @@ This is just a project for learning various languages and their syntax and tools
   Ada               Scala
   Haskell           Bash
   JavaScript        Java
-  Common Lisp
+  Common Lisp       GNU SmallTalk
 ```
 
 ### Install guide Kali Linux
