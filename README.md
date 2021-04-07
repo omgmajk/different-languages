@@ -13,7 +13,7 @@ This is just a project for learning various languages and their syntax and tools
   C++               Elixir
   GoLang            Haskell
   Java              JavaScript
-  Lisp              Lua
+  Common Lisp       Lua
   Perl              PHP
   PowerShell        Python 3
   R                 Ruby
@@ -35,6 +35,7 @@ This is just a project for learning various languages and their syntax and tools
   Ada               Scala
   Haskell           Bash
   JavaScript        Java
+  Common Lisp
 ```
 
 ### Install guide Kali Linux
