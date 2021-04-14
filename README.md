@@ -46,7 +46,7 @@ Note: these installation packages will most likely work in Debian and Ubuntu asw
 If you use Kali full install:
 $ sudo apt install kali-linux-large
 
-In that case: nasm, gcc, js, java, python3, perl, PHP and ruby might be pre-installed.
+In that case: nasm, go, gcc, js, java, python3, perl, PHP and ruby might be pre-installed.
 Otherwise find these packages.
 
 These might need to be installed:
