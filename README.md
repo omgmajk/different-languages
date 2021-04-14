@@ -19,6 +19,7 @@ This is just a project for learning various languages and their syntax and tools
   R                 Ruby
   Rust              Scala
   GNU SmallTalk     VB.NET    
+  Nim
 
 ```
 
@@ -57,6 +58,7 @@ Install Scala: $ sudo apt install scala
 Install Smalltalk: $ sudo apt install gnu-smalltalk
 Install Rust: $ sudo apt install rustc
 Install Basic256: $ sudo apt install basic256
+Install Nim: $ sudo apt install nim
 
 For the rust rand program to compile/work you might need:
 $ sudo apt install librust-rand-dev libssl-dev
