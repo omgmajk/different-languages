@@ -37,6 +37,7 @@ This is just a project for learning various languages and their syntax and tools
   Haskell           Bash
   JavaScript        Java
   Common Lisp       GNU SmallTalk
+  Nim
 ```
 
 ### Install guide Kali Linux
