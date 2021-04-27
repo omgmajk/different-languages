@@ -60,6 +60,7 @@ Install Smalltalk: $ sudo apt install gnu-smalltalk
 Install Rust: $ sudo apt install rustc
 Install Basic256: $ sudo apt install basic256
 Install Nim: $ sudo apt install nim
+Install Go: $ sudo apt install golang
 
 For the rust rand program to compile/work you might need:
 $ sudo apt install librust-rand-dev libssl-dev
