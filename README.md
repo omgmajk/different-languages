@@ -19,8 +19,7 @@ This is just a project for learning various languages and their syntax and tools
   R                 Ruby
   Rust              Scala
   GNU SmallTalk     VB.NET    
-  Nim
-
+  Nim               Fortran
 ```
 
 ### Code examples for random number generation
