@@ -19,7 +19,7 @@ This is just a project for learning various languages and their syntax and tools
   R                 Ruby
   Rust              Scala
   GNU SmallTalk     VB.NET    
-  Nim               Fortran
+  Nim               GNU Fortran
 ```
 
 ### Code examples for random number generation
@@ -36,7 +36,7 @@ This is just a project for learning various languages and their syntax and tools
   Haskell           Bash
   JavaScript        Java
   Common Lisp       GNU SmallTalk
-  Nim
+  Nim               GNU Fortran
 ```
 
 ### Install guide Kali Linux
