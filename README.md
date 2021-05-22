@@ -60,6 +60,7 @@ Install Rust: $ sudo apt install rustc
 Install Basic256: $ sudo apt install basic256
 Install Nim: $ sudo apt install nim
 Install Go: $ sudo apt install golang
+Install Fortran: $ sudo apt install gfortran
 
 For the rust rand program to compile/work you might need:
 $ sudo apt install librust-rand-dev libssl-dev
