@@ -9,7 +9,7 @@ implicit none
 
     write (*,'("Enter some text:")')
     read (*,'(A)') my_message
-    
+
     write (*,'("Here is your text back:")')
     write (*,'(A)') my_message
 
