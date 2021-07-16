@@ -42,6 +42,7 @@ This is just a project for learning various languages and their syntax and tools
 ### Code examples for FizzBuzz problem
 ```
 Python 3            Ruby
+PHP
 ```
 
 ### Install guide Kali Linux
