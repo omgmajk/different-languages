@@ -39,6 +39,11 @@ This is just a project for learning various languages and their syntax and tools
   Nim               GNU Fortran
 ```
 
+### Code examples for FizzBuzz problem
+```
+Python 3            Ruby
+```
+
 ### Install guide Kali Linux
 ```
 Note: these installation packages will most likely work in Debian and Ubuntu aswell.
