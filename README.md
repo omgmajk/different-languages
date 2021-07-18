@@ -45,6 +45,7 @@ This is just a project for learning various languages and their syntax and tools
 ```
 Python 3            Ruby
 PHP                 Rust
+GoLang
 ```
 
 ### Install guide Kali Linux
