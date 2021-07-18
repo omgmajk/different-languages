@@ -8,7 +8,7 @@ This is just a project for learning various languages and their syntax and tools
 **Featured language examples:**
 ```
   Ada               Assembler x64
-  Bash              Basic-256/Qbasic
+  Bash              
   C                 C#
   C++               Elixir
   GoLang            Haskell
@@ -46,6 +46,11 @@ This is just a project for learning various languages and their syntax and tools
 Python 3            Ruby
 PHP                 Rust
 GoLang
+```
+
+### Legacy, languages not added to the different example programs
+```
+Basic-256/Qbasic
 ```
 
 ### Install guide Kali Linux
