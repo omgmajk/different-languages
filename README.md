@@ -40,6 +40,8 @@ This is just a project for learning various languages and their syntax and tools
 ```
 
 ### Code examples for FizzBuzz problem
+
+**Featured language examples:**
 ```
 Python 3            Ruby
 PHP                 Rust
