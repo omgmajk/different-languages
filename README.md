@@ -50,7 +50,7 @@ GoLang
 
 ### Legacy, languages not added to the different example programs
 ```
-Basic-256/Qbasic
+Basic-256/Qbasic 
 ```
 
 ### Install guide Kali Linux
