@@ -8,7 +8,7 @@ This is just a project for learning various languages and their syntax and tools
 **Featured language examples:**
 ```
   Ada               Assembler x64
-  Bash              
+  Bash              FreePascal
   C                 C#
   C++               Elixir
   GoLang            Haskell
@@ -48,9 +48,14 @@ PHP                 Rust
 GoLang
 ```
 
+### Languages to added
+```
+Julia, Prolog, Erlang,
+```
+
 ### Legacy, languages not added to the different example programs
 ```
-Basic-256/Qbasic 
+Basic-256/Qbasic
 ```
 
 ### Install guide Kali Linux
@@ -75,6 +80,7 @@ Install Basic256: $ sudo apt install basic256
 Install Nim: $ sudo apt install nim
 Install Go: $ sudo apt install golang
 Install Fortran: $ sudo apt install gfortran
+Install Free Pascal: $ sudo apt install fp-compiler-3.2.0
 
 For the rust rand program to compile/work you might need:
 $ sudo apt install librust-rand-dev libssl-dev
