@@ -2,9 +2,8 @@
 // Classic fizzbuzz problem from 1 to 100
 
 fn main(){
-    let mut i = 1;
-    
-    while i <= 100 {
+
+    for i in 1..=100 {
         if i % 3 == 0 && i % 5 == 0 {
             println!("FizzBuzz");
         } else if i % 3 == 0 {
@@ -15,9 +14,5 @@ fn main(){
         else {
             println!("{}", i);
         }
-
-        i += 1;
     }
-
-
 }
