@@ -46,6 +46,7 @@ This is just a project for learning various languages and their syntax and tools
 Python 3            Ruby
 PHP                 Rust
 GoLang              C#
+Nim
 ```
 
 ### Languages to added
