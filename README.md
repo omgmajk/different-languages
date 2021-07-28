@@ -47,7 +47,7 @@ Python 3            Ruby
 PHP                 Rust
 GoLang              C#
 Nim                 C
-C++
+C++                 Perl
 ```
 
 ### Languages to added
