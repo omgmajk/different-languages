@@ -20,6 +20,7 @@ This is just a project for learning various languages and their syntax and tools
   Rust              Scala
   GNU SmallTalk     VB.NET    
   Nim               GNU Fortran
+  Julia
 ```
 
 ### Code examples for random number generation
