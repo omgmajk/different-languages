@@ -37,6 +37,7 @@ This is just a project for learning various languages and their syntax and tools
   JavaScript        Java
   Common Lisp       GNU SmallTalk
   Nim               GNU Fortran
+  Julia
 ```
 
 ### Code examples for FizzBuzz problem
@@ -83,6 +84,7 @@ Install Nim: $ sudo apt install nim
 Install Go: $ sudo apt install golang
 Install Fortran: $ sudo apt install gfortran
 Install Free Pascal: $ sudo apt install fp-compiler-3.2.0
+Install Julia: $ sudo apt install julia
 
 For the rust rand program to compile/work you might need:
 $ sudo apt install librust-rand-dev libssl-dev
