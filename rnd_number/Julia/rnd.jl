@@ -4,4 +4,5 @@
 using Random
 
 rnd = rand(1:1000)
+print("Here is your random number: ")
 println(rnd)
