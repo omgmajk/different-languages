@@ -49,6 +49,7 @@ PHP                 Rust
 GoLang              C#
 Nim                 C
 C++                 Perl
+Julia
 ```
 
 ### Languages to added
