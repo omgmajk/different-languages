@@ -53,24 +53,24 @@ C++                 Perl
 Julia
 ```
 
-### Languages to added
+### Languages to add
 ```
-Julia, Prolog, Erlang,
+Zig, Prolog, Erlang, Never, Forth
 ```
 
-### Legacy, languages not added to the different example programs
+### Legacy, languages removed from the different example programs
 ```
 Basic-256/Qbasic
 ```
 
 ### Install guide Kali Linux
 ```
-Note: these installation packages will most likely work in Debian and Ubuntu aswell.
+Note: these installation packages will most likely work in Debian and Ubuntu as well.
 
 If you use Kali full install:
 $ sudo apt install kali-linux-large
 
-In that case: nasm, go, gcc, js, java, python3, perl, PHP and ruby might be pre-installed.
+In that case: nasm, go, gcc, js, java, python3, perl, php and ruby might be pre-installed.
 Otherwise find these packages.
 
 These might need to be installed:
