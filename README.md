@@ -16,10 +16,10 @@ This is just a project for learning various languages and their syntax and tools
   Common Lisp       Lua
   Perl              PHP
   PowerShell        Python 3
-  R                 Ruby
+  GNU Fortran      Ruby
   Rust              Scala
   GNU SmallTalk     VB.NET    
-  Nim               GNU Fortran
+  Nim               
 ```
 
 ### Code examples for random number generation
@@ -38,6 +38,7 @@ This is just a project for learning various languages and their syntax and tools
   Common Lisp       GNU SmallTalk
   Nim               GNU Fortran
   Julia             FreePascal
+  PowerShell
 ```
 
 ### Code examples for FizzBuzz problem
@@ -60,6 +61,7 @@ Zig, Prolog, Erlang, Never, Forth, Red
 ### Legacy, languages removed from the different example programs
 ```
 Basic-256/Qbasic    Assembler x64
+R
 ```
 
 ### Install guide Kali Linux
