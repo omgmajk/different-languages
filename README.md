@@ -7,7 +7,7 @@ This is just a project for learning various languages and their syntax and tools
 
 **Featured language examples:**
 ```
-  Ada               Assembler x64
+  Ada               
   Bash              FreePascal
   C                 C#
   C++               Elixir
@@ -60,7 +60,7 @@ Zig, Prolog, Erlang, Never, Forth
 
 ### Legacy, languages removed from the different example programs
 ```
-Basic-256/Qbasic
+Basic-256/Qbasic    Assembler x64
 ```
 
 ### Install guide Kali Linux
