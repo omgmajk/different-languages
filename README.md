@@ -7,38 +7,38 @@ This is just a project for learning various languages and their syntax and tools
 
 **Featured language examples:**
 ```
-  Ada               Julia
-  Bash              FreePascal
-  C                 C#
-  C++               Elixir
-  GoLang            Haskell
-  Java              JavaScript
-  Common Lisp       Lua
-  Perl              PHP
-  PowerShell        Python 3
-  GNU Fortran      Ruby
-  Rust              Scala
-  GNU SmallTalk     VB.NET    
-  Nim               
+  Ada             Common Lisp
+  Bash            Lua
+  C               Nim
+  C#              Perl
+  C++             PHP
+  Elixir          PowerShell
+  Fortran (GNU)   Python 3
+  FreePascal      Ruby
+  GoLang          Rust
+  Haskell         Scala      
+  Java            SmallTalk (GNU)
+  JavaScript      VB.NET
+  Julia
 ```
 
 ### Code examples for random number generation
 
 **Featured language examples:**
 ```
-  C#                Python 3
-  C                 C++
-  Perl              GoLang
-  Elixir            Lua
-  VB.NET            Ruby
-  Rust              PHP
-  Ada               Scala
-  Haskell           Bash
-  JavaScript        Java
-  Common Lisp       GNU SmallTalk
-  Nim               GNU Fortran
-  Julia             FreePascal
-  PowerShell
+  Ada             Common Lisp
+  Bash            Lua
+  C               Nim
+  C#              Perl
+  C++             PHP
+  Elixir          PowerShell
+  Fortran (GNU)   Python 3
+  FreePascal      Ruby
+  GoLang          Rust
+  Haskell         Scala      
+  Java            SmallTalk (GNU)
+  JavaScript      VB.NET
+  Julia
 ```
 
 ### Code examples for FizzBuzz problem
