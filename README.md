@@ -55,7 +55,7 @@ Julia
 
 ### Languages to add
 ```
-Zig, Prolog, Erlang, Never, Forth
+Zig, Prolog, Erlang, Never, Forth, Red
 ```
 
 ### Legacy, languages removed from the different example programs
