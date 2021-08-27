@@ -50,7 +50,7 @@ PHP                 Rust
 GoLang              C#
 Nim                 C
 C++                 Perl
-Julia
+Julia               SmallTalk
 ```
 
 ### Languages to add
