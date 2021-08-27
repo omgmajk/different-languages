@@ -1,4 +1,5 @@
 { Compile using fpc message.pas and run with ./message }
+{ Takes string user input from console and prints it back }
 
 program message;
 

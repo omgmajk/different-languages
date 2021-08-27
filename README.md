@@ -7,7 +7,7 @@ This is just a project for learning various languages and their syntax and tools
 
 **Featured language examples:**
 ```
-  Ada               
+  Ada               Julia
   Bash              FreePascal
   C                 C#
   C++               Elixir
@@ -20,7 +20,6 @@ This is just a project for learning various languages and their syntax and tools
   Rust              Scala
   GNU SmallTalk     VB.NET    
   Nim               GNU Fortran
-  Julia
 ```
 
 ### Code examples for random number generation
@@ -38,7 +37,7 @@ This is just a project for learning various languages and their syntax and tools
   JavaScript        Java
   Common Lisp       GNU SmallTalk
   Nim               GNU Fortran
-  Julia
+  Julia             FreePascal
 ```
 
 ### Code examples for FizzBuzz problem
