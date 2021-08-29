@@ -6,7 +6,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class message { // has to be named message, same as filename or will error
+public class message // has to be named message, same as filename or will error
+{
     public static void main(String[] args)
         throws IOException
     {

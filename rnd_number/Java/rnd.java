@@ -2,7 +2,8 @@
 // Generates and prints a random number between 1 and 1000
 import java.util.Random;
 
-class Rnd {
+class Rnd
+{
     public static void main(String args[])
     {
         Random rand = new Random();
