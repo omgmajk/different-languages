@@ -51,6 +51,7 @@ GoLang              C#
 Nim                 C
 C++                 Perl
 Julia               SmallTalk
+Common Lisp
 ```
 
 ### Languages to add
