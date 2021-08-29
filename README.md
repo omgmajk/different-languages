@@ -52,6 +52,7 @@ Nim                 C
 C++                 Perl
 Julia               SmallTalk
 Common Lisp         Fortran (GNU)
+Java
 ```
 
 ### Languages to add
