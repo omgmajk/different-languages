@@ -51,7 +51,7 @@ GoLang              C#
 Nim                 C
 C++                 Perl
 Julia               SmallTalk
-Common Lisp
+Common Lisp         Fortran (GNU)
 ```
 
 ### Languages to add
