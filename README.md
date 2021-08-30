@@ -50,9 +50,9 @@ PHP                 Rust
 GoLang              C#
 Nim                 C
 C++                 Perl
-Julia               SmallTalk
+Julia               SmallTalk (GNU)
 Common Lisp         Fortran (GNU)
-Java
+Java                Scala
 ```
 
 ### Languages to add
