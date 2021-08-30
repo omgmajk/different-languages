@@ -53,6 +53,7 @@ C++                 Perl
 Julia               SmallTalk (GNU)
 Common Lisp         Fortran (GNU)
 Java                Scala
+Ada
 ```
 
 ### Languages to add
