@@ -1,7 +1,7 @@
 # different-languages
 ## Tutorial/Examples
 
-This is just a project for learning various languages and their syntax and tools, over the years I have seen various questions about these things on Stack Overflow and Reddit and I thought I'd try my hand at generating a bunch of examples. This readme-file is a mess and the languages and install instructions are added as I add more languages. In the future I will format it better but I'm still thinking of code examples I can do.
+This is just a project for learning various languages and their syntax and tools, over the years I have seen various questions about these things on Stack Overflow and Reddit and I thought I'd try my hand at generating a bunch of examples. This readme-file is a mess and the languages and install instructions are added as I add more languages. In the future I will format it better but I'm still thinking of code examples I can make.
 
 ### Code examples for taking user input from console and displaying it back
 
