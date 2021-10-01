@@ -3,7 +3,7 @@
 ; ld -s -o inputnumber inputnumber.o
 ; Takes a small int, can't get it to take text or bigger numbers. Max four digits.
 ; Can't get it to take string input, must learn more about assembler.
-; Failed experiment. Stolen and modified from StackOverflow.
+; Failed experiment. Stolen and modified from StackOverflow. Now legacy.
 
 section .data
 out1: db 'Enter a number:'
