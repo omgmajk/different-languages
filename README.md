@@ -54,7 +54,9 @@ Julia               SmallTalk (GNU)
 Common Lisp         Fortran (GNU)
 Java                Scala
 Ada                 VB.NET
-Bash
+Bash                FreePascal
+Haskell             Elixir
+JavaScript
 ```
 
 ### Languages to add
