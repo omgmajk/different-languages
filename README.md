@@ -61,7 +61,7 @@ JavaScript
 
 ### Languages to add
 ```
-Zig, Prolog, Erlang, Never, Forth, Red
+Zig, Prolog, Erlang, Never, Forth, Red, Crystal, Dart, Perl6/Raku, D, Clojure
 ```
 
 ### Legacy, languages removed from the different example programs
