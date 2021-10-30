@@ -56,7 +56,7 @@ Java                Scala
 Ada                 VB.NET
 Bash                FreePascal
 Haskell             Elixir
-JavaScript
+JavaScript          Lua
 ```
 
 ### Languages to add
