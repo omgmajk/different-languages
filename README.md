@@ -45,18 +45,19 @@ This is just a project for learning various languages and their syntax and tools
 
 **Featured language examples:**
 ```
-Python 3            Ruby
-PHP                 Rust
-GoLang              C#
-Nim                 C
-C++                 Perl
-Julia               SmallTalk (GNU)
-Common Lisp         Fortran (GNU)
-Java                Scala
-Ada                 VB.NET
-Bash                FreePascal
-Haskell             Elixir
-JavaScript          Lua
+Ada             Common Lisp
+Bash            Lua
+C               Nim
+C#              Perl
+C++             PHP
+Elixir          PowerShell
+Fortran (GNU)   Python 3
+FreePascal      Ruby
+GoLang          Rust
+Haskell         Scala      
+Java            SmallTalk (GNU)
+JavaScript      VB.NET
+Julia
 ```
 
 ### Languages to add
