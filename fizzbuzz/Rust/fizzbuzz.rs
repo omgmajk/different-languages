@@ -1,4 +1,4 @@
-// Compile using rustc.rs
+// Compile using rustc fizzbuzz.rs
 // Classic fizzbuzz problem from 1 to 100
 
 fn main(){
