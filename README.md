@@ -60,6 +60,12 @@ JavaScript      VB.NET
 Julia
 ```
 
+### Code examples for recursive functions / factorial
+```
+C               Rust
+C++
+```
+
 ### Languages to add
 ```
 Zig, Prolog, Erlang, Never, Forth, Red, Crystal, Dart, Perl6/Raku, D, Clojure
