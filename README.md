@@ -7,6 +7,7 @@ This is just a project for learning various languages and their syntax and tools
 
 **Featured language examples:**
 ```
+  Assembler x64
   Ada             Common Lisp
   Bash            Lua
   C               Nim
@@ -73,7 +74,7 @@ Zig, Prolog, Erlang, Never, Forth, Red, Crystal, Dart, Perl6/Raku, D, Clojure
 
 ### Legacy, languages removed from the different example programs
 ```
-Basic-256/Qbasic    Assembler x64
+Basic-256/Qbasic    
 R
 ```
 
