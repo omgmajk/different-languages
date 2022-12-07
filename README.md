@@ -6,7 +6,8 @@ This is just a project for learning various languages and their syntax and tools
 ### Code examples for taking user input from console and displaying it back
 
 **Featured language examples:**
-```
+
+``` text
   Assembler x64
   Ada             Common Lisp
   Bash            Lua
@@ -26,7 +27,8 @@ This is just a project for learning various languages and their syntax and tools
 ### Code examples for random number generation
 
 **Featured language examples:**
-```
+
+``` text
   Ada             Common Lisp
   Bash            Lua
   C               Nim
@@ -45,7 +47,8 @@ This is just a project for learning various languages and their syntax and tools
 ### Code examples for FizzBuzz problem
 
 **Featured language examples:**
-```
+
+``` text
 Ada             Common Lisp
 Bash            Lua
 C               Nim
@@ -62,27 +65,31 @@ Julia
 ```
 
 ### Code examples for recursive functions / factorial
-```
+
+``` text
 C               Rust
 C++
 ```
 
 ### Languages to add
-```
+
+``` text
 Zig, Prolog, Erlang, Never, Forth, Red, Crystal, Dart, Perl6/Raku, D, Clojure
 ```
 
 ### Legacy, languages removed from the different example programs
-```
+
+``` text
 Basic-256/Qbasic    
 R
 ```
 
 ### Install guide Kali Linux
-```
+
+``` text
 Note: these installation packages will most likely work in Debian and Ubuntu as well.
 
-If you use Kali full install:
+If you use Debian, Ubuntu, Kali and so on full install:
 $ sudo apt install kali-linux-large
 
 In that case: nasm, go, gcc, js, java, python3, perl, php and ruby might be pre-installed.
@@ -116,7 +123,9 @@ export PATH="/home/<youruser>/.cargo/bin:$PATH"
 Start PowerShell by typing: $ pwsh
 
 ```
+
 ### Interactive shells
+
 C#, like Python offers an interactive shell. You start it by typing `csharp` in your console, just like `idle` or `python3`
 
 Feel free to comment or add suggestions for more languages.
